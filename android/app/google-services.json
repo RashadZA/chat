@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385620368834",
+    "project_id": "chat-f9df8",
+    "storage_bucket": "chat-f9df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385620368834:android:27f208d4ed80e8c92d4a5b",
+        "android_client_info": {
+          "package_name": "com.ananda.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385620368834-jg5o1vsfvelee1c1o4htm4gcrr7v1jb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrChHePuFQrwsavAtvEUBQe2upRIS8_58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385620368834-jg5o1vsfvelee1c1o4htm4gcrr7v1jb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
